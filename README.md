@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-pm-2908" alt="sahil-pm-2908" /></a> </p>
 
-- 🔭 I’m currently working on **AI/ML Products in MarTech and AdTech spacw**
+- 🔭 I’m currently working on **AI/ML Products in MarTech and AdTech space**
 
 - 🌱 I’m currently learning **Machine Learning,GenAI,LLM**
 
