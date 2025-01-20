@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-pm-2908&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-pm-2908" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-pm-2908" alt="sahil-pm-2908" /></a> </p>
-
-- 🔭 I’m currently working on **AI/ML Products in MarTech and AdTech space**
+- 🔭 I’m currently working on **AI/ML Products in MarTech and AdTech spacw**
 
 - 🌱 I’m currently learning **Machine Learning,GenAI,LLM**
 
